@@ -1,0 +1,5 @@
+venv/
+debug_frames/
+app/__pycache__/
+__pycache__/
+*.pyc
